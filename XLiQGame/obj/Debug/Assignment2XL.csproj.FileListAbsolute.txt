@@ -1,0 +1,11 @@
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\bin\Debug\Assignment2XL.exe.config
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\bin\Debug\Assignment2XL.exe
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\bin\Debug\Assignment2XL.pdb
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.csproj.AssemblyReference.cache
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.csproj.SuggestedBindingRedirects.cache
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.frmControlPannel.resources
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.Properties.Resources.resources
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.csproj.GenerateResource.cache
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.csproj.CoreCompileInputs.cache
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.exe
+C:\Documents\Documents\Conestoga\2A\PROG2370\Assignment\assignment2\Assignment2XL\Assignment2XL\obj\Debug\Assignment2XL.pdb
